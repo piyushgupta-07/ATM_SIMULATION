@@ -1,0 +1,22 @@
+{
+  "accounts": {
+    "10001": {
+      "name": "piyush gupta",
+      "pin": "6500",
+      "balance": 87500,
+      "transactions": [
+        {
+          "type": "DEPOSIT",
+          "amount": 100000,
+          "time": "2025-11-23T16:15:12"
+        },
+        {
+          "type": "WITHDRAW",
+          "amount": 12500,
+          "time": "2025-11-23T16:15:22"
+        }
+      ]
+    }
+  },
+  "next_ac_no": 10002
+}
