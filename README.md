@@ -18,7 +18,7 @@ Technologies Used
 - JSON Storage
 - Datetime Module
 - OS Module
-- 
+  
 Testing Instructions
 - Create a new user account
 - Login using Account Number & PIN
@@ -27,6 +27,6 @@ Testing Instructions
 - View mini statement
 - Change PIN and verify
 - Check JSON file updates
-- 
+  
 Author
 Piyush Gupta
